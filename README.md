@@ -12,7 +12,7 @@
 ## Ich heiße David López und komme aus Kolumbien. ich bin 22 jahre alt. Bin Electronik Ingenieur Student an der Santo-Tomás-Universität.
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2975f938-5258-4b76-86bd-05a52aad0194" />
 
-
+[![LopezzzDavid's GitHub stats](https://github-readme-stats.vercel.app/api?username=LopezzzDavid)](https://github.com/LopezzzDavid/github-readme-stats)
 <!--
 **LopezzzDavid/LopezzzDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
