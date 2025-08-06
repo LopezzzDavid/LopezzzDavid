@@ -2,9 +2,11 @@
 ![GroguStarWarsGIF](https://github.com/user-attachments/assets/15d11020-b3de-4ba9-bf47-815d6b0df80b)
 ![PlayVideoGamesGIF](https://github.com/user-attachments/assets/4b9e16c8-d2b7-4daf-b30e-a036d49ba7cc)
 
-🇨🇴 Mi nombre es David López y soy de Colombia. Tengo 22 años de edad. Soy estudiante de Ingeniería Electrónica en la Universidad Santo Tomás.
-🇺🇸 My name is David López and I'm from Colombia. I'm 22 years old. I'm Electronic engineer student in Santo Tomás University.
-🇩🇪 Ich heiße David López und komme aus Kolumbien. ich bin 22 jahre alt. Bin Electronik Ingenieur Student an der Santo-Tomás-Universität.
+## 🇨🇴 Mi nombre es David López y soy de Colombia. Tengo 22 años de edad. Soy estudiante de Ingeniería Electrónica en la Universidad Santo Tomás.
+
+## 🇺🇸 My name is David López and I'm from Colombia. I'm 22 years old. I'm Electronic engineer student in Santo Tomás University.
+
+## 🇩🇪 Ich heiße David López und komme aus Kolumbien. ich bin 22 jahre alt. Bin Electronik Ingenieur Student an der Santo-Tomás-Universität.
 
 <!--
 **LopezzzDavid/LopezzzDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
