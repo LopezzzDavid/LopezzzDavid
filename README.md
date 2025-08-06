@@ -1,10 +1,13 @@
-## Hi there, I'm David 👋
+## Hi there, I'm David 👋🫂
 ![GroguStarWarsGIF](https://github.com/user-attachments/assets/15d11020-b3de-4ba9-bf47-815d6b0df80b)
 ![PlayVideoGamesGIF](https://github.com/user-attachments/assets/4b9e16c8-d2b7-4daf-b30e-a036d49ba7cc)
 
 
 <!--
 **LopezzzDavid/LopezzzDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+I'm Electronic Engineer student in Santo Tomás University, in Colombia.
+
 
 Here are some ideas to get you started:
 
