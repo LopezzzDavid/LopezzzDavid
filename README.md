@@ -1,13 +1,16 @@
 ## Hola! soy David 👋🫂
 ![GroguStarWarsGIF](https://github.com/user-attachments/assets/15d11020-b3de-4ba9-bf47-815d6b0df80b)
 
-## 🇨🇴 Mi nombre es David López y soy de Colombia. Tengo 22 años de edad. Soy estudiante de Ingeniería Electrónica en la Universidad Santo Tomás. <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/92565c71-8f6e-4255-9690-021dd2c537a8" />
+## Mi nombre es David López y soy de Colombia. Tengo 22 años de edad. Soy estudiante de Ingeniería Electrónica en la Universidad Santo Tomás.
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/92565c71-8f6e-4255-9690-021dd2c537a8" />
 
 
-## 🇺🇸 My name is David López and I'm from Colombia. I'm 22 years old. I'm Electronic engineer student in Santo Tomás University. <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/014987b2-adfa-47ba-9cbe-650d8f5c6340" />
+## My name is David López and I'm from Colombia. I'm 22 years old. I'm Electronic engineer student in Santo Tomás University.
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/014987b2-adfa-47ba-9cbe-650d8f5c6340" />
 
 
-## 🇩🇪 Ich heiße David López und komme aus Kolumbien. ich bin 22 jahre alt. Bin Electronik Ingenieur Student an der Santo-Tomás-Universität. <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2975f938-5258-4b76-86bd-05a52aad0194" />
+## Ich heiße David López und komme aus Kolumbien. ich bin 22 jahre alt. Bin Electronik Ingenieur Student an der Santo-Tomás-Universität.
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/2975f938-5258-4b76-86bd-05a52aad0194" />
 
 
 <!--
