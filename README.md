@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there, I'm David 👋![GroguStarWarsGIF](https://github.com/user-attachments/assets/15d11020-b3de-4ba9-bf47-815d6b0df80b)
+
 
 <!--
 **LopezzzDavid/LopezzzDavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
