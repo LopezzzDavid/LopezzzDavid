@@ -16,7 +16,7 @@
 
 
 <!-- TÍTULO PRINCIPAL -->
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00bfff;">TuNombre</span></h1>
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00bfff;">LopezzzDavid</span></h1>
 
 <!-- SUBTÍTULO -->
 <h3 align="center"><em>Desarrollador Full Stack | Entusiasta de la IA | Creativo Digital</em></h3>
@@ -56,8 +56,8 @@ Actualmente trabajo en <strong><span style="color:#ff6347;">[NombreEmpresa]</spa
 <div align="center">
 
 <!-- Stats con temas -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LopezzzDavid&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopezzzDavid&layout=compact&theme=radical" />
 
 </div>
 
