@@ -1,57 +1,66 @@
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#90e0ef;">David López</span></h1>
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=calibri&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&Color=ff6700&lines=Hola+mundo%2C+Hello+world%2C+Hallo+Welt" alt="Typing SVG" />
-</h1>
-
-<!-- SUBTÍTULO -->
-<h3 align="center"><em>Ingeniero Electrónico</em></h3>
-
-<!-- GIF BIENVENIDA -->
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
+<h1 align="center">⚡ Ingeniero Electrónico en Formación ⚡</h1>
+<h3 align="center">Universidad Santo Tomás - Bogotá, Colombia</h3>
 
 ---
 
-<!-- SOBRE MÍ -->
-## 🧑‍💻 Sobre mí
-
-<p style="font-size:16px;">
-Soy un estudiante de ingeniería electrónica en la Universidad Santo Tomás en la ciudad de Bogotá, Colombia.
-  Siempre estoy en busca de nuevos conocimientos para poder aportar soluciones reales a problemas reales.
+## 👨‍🎓 Sobre mí
+<p align="justify">
+Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimientos para poder dar soluciones reales a problemas reales.
 </p>
 
 ---
 
-<!-- TECNOLOGÍAS -->
-## 🚀 Tecnologías y herramientas
+## 🛠 Habilidades Técnicas
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+**Lenguajes de Programación**
+> C | C++ | C# | Arduino | Assembler (básico)
 
-<!-- ESTADÍSTICAS -->
-## 📊 Estadísticas de GitHub
+**Herramientas y Plataformas**
+> CCS | Arduino | MATLAB | Simulink | Proteus | Multisim
 
-<div align="center">
-
-<!-- Stats con temas -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LopezzzDavid&show_icons=true&theme=radical" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopezzzDavid&layout=compact&theme=radical" />
-
-</div>
+**Áreas de Especialidad**
+- Diseño y control de motores
+- Electrónica de potencia
+- Desarrollo de drivers
 
 ---
 
-<!-- GIF DE TRABAJO -->
-## 🎯 Proyectos recientes
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
+## 🌱 Soft Skills
+- Trabajo en equipo 🤝
+- Comunicación clara 🗣
+- Resolución de problemas 🧩
+- Pensamiento crítico 🔍
+- Gestión de tiempo ⏳
 
 ---
 
-<!-- CONTACTO -->
+## 🌐 Idiomas
+| Idioma   | Nivel | Descripción |
+|----------|-------|-------------|
+| Español  | Nativo | Comunicación fluida y técnica |
+| Inglés   | B2    | Capaz de mantener conversaciones técnicas y académicas |
+| Alemán   | A2    | Conocimiento básico y comprensión de textos simples |
+
+---
+
+## 🚀 Proyectos Destacados
+- 🚗 **Carro seguidor de línea** (versión analógica y versión digital con DSP)
+- 🕷 **Araña robot** controlada desde PC
+- ⚙ **Control de motores** DC y paso a paso
+- 💡 **Driver para lámpara LED** con encendido/apagado mediante electrónica de potencia
+
+---
+
+## 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LopezzzDavid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LopezzzDavid&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ## 📬 Contacto
 
 <p align="center">
@@ -61,7 +70,12 @@ Soy un estudiante de ingeniería electrónica en la Universidad Santo Tomás en 
 
 ---
 
-<!-- PIE DE PÁGINA -->
 <p align="center">
   Hecho por <strong>David López</strong> • Última actualización: agosto 2025
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LopezzzDavid&color=blueviolet&style=flat-square" alt="Profile views"/>
 </p>
