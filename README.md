@@ -4,47 +4,46 @@
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 </div>
 
----
+
 
 ## 👨‍🎓 Sobre mí
 <p align="justify">
 Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimientos para poder dar soluciones reales a problemas reales.
 </p>
 
----
+
 
 ## 🛠 Habilidades Técnicas
 
-**Lenguajes de Programación**
+*Lenguajes de Programación*
 > C | C++ | C# | Arduino | Assembler (básico)
 
-**Herramientas y Plataformas**
+*Herramientas y Plataformas*
 > CCS | Arduino | MATLAB | Simulink | Proteus | Multisim
 
-**Áreas de Especialidad**
+*Áreas de Especialidad*
 - Diseño y control de motores
 - Electrónica de potencia
 - Desarrollo de drivers
 
----
+*Soft Skills*
 
-## 🌱 Soft Skills
 - Trabajo en equipo 🤝
 - Comunicación clara 🗣
 - Resolución de problemas 🧩
 - Pensamiento crítico 🔍
 - Gestión de tiempo ⏳
 
----
+
 
 ## 🌐 Idiomas
+
 | Idioma   | Nivel | Descripción |
 |----------|-------|-------------|
 | Español  | Nativo | Comunicación fluida y técnica |
 | Inglés   | B2    | Capaz de mantener conversaciones técnicas y académicas |
 | Alemán   | A2    | Conocimiento básico y comprensión de textos simples |
 
----
 
 ## 🚀 Proyectos Destacados
 - 🚗 **Carro seguidor de línea** (versión analógica y versión digital con DSP)
@@ -52,7 +51,7 @@ Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimie
 - ⚙ **Control de motores** DC y paso a paso
 - 💡 **Driver para lámpara LED** con encendido/apagado mediante electrónica de potencia
 
----
+
 
 ## 📊 Estadísticas
 <p align="center">
@@ -62,7 +61,7 @@ Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimie
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LopezzzDavid&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
----
+
 
 ## 📬 Contacto
 
@@ -71,13 +70,13 @@ Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimie
   <a href="https://linkedin.com/in/david-santiago-lópez-maldonado-5601031b2/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
----
+
 
 <p align="center">
   Hecho por <strong>David López</strong> • Última actualización: agosto 2025
 </p>
 
----
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LopezzzDavid&color=blueviolet&style=flat-square" alt="Profile views"/>
