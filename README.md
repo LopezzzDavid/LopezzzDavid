@@ -1,134 +1,68 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>David López | Portafolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/f2518abd-058b-4062-9a43-08d6b9c6962b" />
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#90e0ef;">David López</span></h1>
 
-    body {
-      font-family: 'Fira Code', monospace;
-      background-color: #121212;
-      color: #f5f5f5;
-      line-height: 1.6;
-    }
+<!-- SUBTÍTULO -->
+<h3 align="center"><em>Ingeniero Electrónico</em></h3>
 
-    header {
-      background: linear-gradient(90deg, #1f1f1f, #292929);
-      padding: 2rem;
-      text-align: center;
-    }
+<!-- GIF BIENVENIDA -->
+<div align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
+</div>
 
-    header h1 {
-      font-size: 2.5rem;
-      color: #00bfff;
-    }
+---
 
-    header p {
-      font-style: italic;
-      color: #cccccc;
-    }
+<!-- SOBRE MÍ -->
+## 🧑‍💻 Sobre mí
 
-    section {
-      padding: 2rem;
-      max-width: 1000px;
-      margin: auto;
-    }
+<p style="font-size:16px;">
+Soy un estudiante de ingeniería electrónica en la Universidad Santo Tomás en la ciudad de Bogotá, Colombia.
+  Siempre estoy en busca de nuevos conocimientos para poder aportar soluciones reales a problemas reales.
+</p>
 
-    h2 {
-      color: #00bcd4;
-      margin-bottom: 1rem;
-      border-bottom: 1px solid #333;
-      padding-bottom: 0.5rem;
-    }
+---
 
-    .center {
-      text-align: center;
-    }
+<!-- TECNOLOGÍAS -->
+## 🚀 Tecnologías y herramientas
 
-    .justify {
-      text-align: justify;
-    }
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-    .project {
-      background: #1e1e1e;
-      margin-bottom: 1.5rem;
-      padding: 1rem;
-      border-radius: 10px;
-      box-shadow: 0 0 10px #000;
-    }
+---
 
-    footer {
-      text-align: center;
-      padding: 1rem;
-      color: #999;
-      font-size: 0.9rem;
-    }
+<!-- ESTADÍSTICAS -->
+## 📊 Estadísticas de GitHub
 
-    a {
-      color: #00bfff;
-      text-decoration: none;
-    }
+<div align="center">
 
-    a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-<body>
-  <header>
-    <h1>David López</h1>
-    <p>Estudiante de Ingeniería Electrónica - USTA Bogotá</p>
-  </header>
+<!-- Stats con temas -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
 
-  <section class="center">
-    <h2>Sobre mí</h2>
-    <p class="justify">
-      Soy un estudiante de Ingeniería Electrónica apasionado por la automatización, el control de sistemas y la programación embebida. Me gusta explorar soluciones técnicas que mezclen software y hardware, buscando siempre la eficiencia, creatividad y funcionalidad en cada proyecto.
-    </p>
-  </section>
+</div>
 
-  <section>
-    <h2 class="center">Proyectos destacados</h2>
+---
 
-    <div class="project">
-      <h3>🚗 Carro seguidor de línea</h3>
-      <p class="justify">Diseño de un carro controlado mediante sensores infrarrojos. Implementación analógica y digital, controlando la dirección y velocidad con PWM.</p>
-    </div>
+<!-- GIF DE TRABAJO -->
+## 🎯 Proyectos recientes
 
-    <div class="project">
-      <h3>🕷️ Araña robótica</h3>
-      <p class="justify">Prototipo de robot con múltiples patas controlado desde el computador vía serial. Integración de interfaz en Python con firmware en C++.</p>
-    </div>
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="100%" />
 
-    <div class="project">
-      <h3>⚙️ Sistema de control de motores</h3>
-      <p class="justify">Sistema de control para motores DC usando la DSP LAUNCHXL F28379D. Controladores PID y respuesta dinámica.</p>
-    </div>
+---
 
-    <div class="project">
-      <h3>💡 Driver de lámpara LED</h3>
-      <p class="justify">Sistema de encendido y regulación de potencia para una lámpara LED usando Electrónica de Potencia y modulación PWM.</p>
-    </div>
-  </section>
+<!-- CONTACTO -->
+## 📬 Contacto
 
-  <section class="center">
-    <h2>Contacto</h2>
-    <p>
-      📧 <a href="mailto:lopezzzdavid@example.com">lopezzzdavid@example.com</a><br />
-      🔗 <a href="https://github.com/LopezzzDavid" target="_blank">github.com/LopezzzDavid</a><br />
-      💼 <a href="https://linkedin.com/in/lopezzzdavid" target="_blank">linkedin.com/in/lopezzzdavid</a>
-    </p>
-  </section>
+<p align="center">
+  <a href="mailto:tucorreo@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/TU_PERFIL"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://twitter.com/TU_USUARIO"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+</p>
 
-  <footer>
-    <p>Última actualización: Agosto 2025 | Portafolio personal</p>
-  </footer>
-</body>
-</html>
+---
+
+<!-- PIE DE PÁGINA -->
+<p align="center">
+  Hecho con ❤️ por <strong>TuNombre</strong> • Última actualización: agosto 2025
+</p>
