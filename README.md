@@ -1,5 +1,7 @@
-<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/f2518abd-058b-4062-9a43-08d6b9c6962b" />
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#90e0ef;">David López</span></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=calibri&size=28&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&Color=ff6700&lines=Hola+mundo%2C+Hello+world%2C+Hallo+Welt" alt="Typing SVG" />
+</h1>
 
 <!-- SUBTÍTULO -->
 <h3 align="center"><em>Ingeniero Electrónico</em></h3>
@@ -29,16 +31,14 @@ Soy un estudiante de ingeniería electrónica en la Universidad Santo Tomás en 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
----
-
 <!-- ESTADÍSTICAS -->
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
 
 <!-- Stats con temas -->
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LopezzzDavid&show_icons=true&theme=radical" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LopezzzDavid&layout=compact&theme=radical" />
 
 </div>
 
