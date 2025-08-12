@@ -73,7 +73,7 @@ Soy estudiante de Ingeniería Electrónica, siempre en busca de nuevos conocimie
 
 
 <p align="center">
-  Hecho por <strong>David López</strong> • Última actualización: agosto 2025
+  Hecho por <strong>David Santiago López</strong> • Última actualización: agosto 2025
 </p>
 
 
