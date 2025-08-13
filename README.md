@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Ingeniero Electrónico en Formación ⚡</h1>
+<h1 align="center">⚡ David S. López - Ingeniero Electrónico en Formación ⚡</h1>
 <h3 align="center">Universidad Santo Tomás - Bogotá, Colombia</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
